@@ -18,18 +18,3 @@ The architecture includes Depenency injection (DotNet.Core), Mediator pattern wh
 Swagger is included so the API can be tested on https://localhost:7045/swagger
 
 The Single Page Application is implemented using latest Angular and Bootstrap
-
-
-============================= SCREENSHOTs ===================
-
-Homepage/Dashboard
-
-Google Search
-![image](https://github.com/Durga-06/InfoTrack/assets/15078326/e2865ab8-c5c9-40f1-a6a8-9444a285e5dd)
-
-Bing Search
-![image](https://user-images.githubusercontent.com/1809650/159510621-24e8a44b-78d0-45d8-8d9b-d8ba7344e9fe.png)
-
-SEARCH-HISTORY
-![image](https://user-images.githubusercontent.com/1809650/159510298-1053fb62-c860-4b2e-913a-ebfc13f33abd.png)
-

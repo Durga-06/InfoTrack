@@ -25,7 +25,7 @@ The Single Page Application is implemented using latest Angular and Bootstrap
 Homepage/Dashboard
 
 Google Search
-![image](https://user-images.githubusercontent.com/1809650/159509906-3ed4c7a7-a90c-4f53-8228-9d5ad69d679a.png)
+![image](https://github.com/Durga-06/InfoTrack/assets/15078326/e2865ab8-c5c9-40f1-a6a8-9444a285e5dd)
 
 Bing Search
 ![image](https://user-images.githubusercontent.com/1809650/159510621-24e8a44b-78d0-45d8-8d9b-d8ba7344e9fe.png)
